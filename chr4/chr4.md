@@ -13,5 +13,5 @@
 
 
 algo式より
-[Q4-5 部分和問題 (再帰-1)](https://algo-method.com/tasks/427)
-[Q4-6 部分和問題 (再帰-2)](https://algo-method.com/tasks/438)
+- [Q4-5 部分和問題 (再帰-1)](https://algo-method.com/tasks/427)
+- [Q4-6 部分和問題 (再帰-2)](https://algo-method.com/tasks/438)
